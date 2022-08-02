@@ -7,3 +7,5 @@ https://woxo.tech/instagram-widget?adgroupid=140147884948&gclid=Cj0KCQjw852XBhC6
 
 Snap
 Widget
+
+https://www.powr.io/plugins/instagram-feed/standalone?id=33093230&platform=html
