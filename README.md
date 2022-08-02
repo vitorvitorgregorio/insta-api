@@ -9,3 +9,6 @@ Snap
 Widget
 
 https://www.powr.io/plugins/instagram-feed/standalone?id=33093230&platform=html
+
+
+https://embedsocial.com/pricing/embedfeed/
